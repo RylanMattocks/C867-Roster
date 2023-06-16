@@ -1,1 +1,2 @@
 # C867-Roster
+This project outputs into the console an array of students and then allows printing of additonal information and make changes to the array. The methods in the project allow for: checking for valid email addresses, outputting the average days in their courses, outputting students with a particular degree, removing a student, and outputting the new roster to check if changes were committed.
