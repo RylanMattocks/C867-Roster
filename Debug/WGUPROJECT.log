@@ -1,0 +1,19 @@
+﻿  networkStudent.cpp
+  roster.cpp
+c:\users\mattocrl\desktop\wguproject\wguproject\roster.cpp(91): warning C4018: '<': signed/unsigned mismatch
+c:\users\mattocrl\desktop\wguproject\wguproject\roster.cpp(106): warning C4018: '<': signed/unsigned mismatch
+c:\users\mattocrl\desktop\wguproject\wguproject\roster.cpp(169): warning C4018: '<': signed/unsigned mismatch
+c:\users\mattocrl\desktop\wguproject\wguproject\roster.cpp(192): warning C4018: '<': signed/unsigned mismatch
+c:\users\mattocrl\desktop\wguproject\wguproject\roster.cpp(215): warning C4018: '<': signed/unsigned mismatch
+c:\users\mattocrl\desktop\wguproject\wguproject\roster.cpp(238): warning C4018: '<': signed/unsigned mismatch
+c:\users\mattocrl\desktop\wguproject\wguproject\roster.cpp(261): warning C4018: '<': signed/unsigned mismatch
+c:\users\mattocrl\desktop\wguproject\wguproject\roster.cpp(286): warning C4018: '<': signed/unsigned mismatch
+c:\users\mattocrl\desktop\wguproject\wguproject\roster.cpp(301): warning C4018: '<': signed/unsigned mismatch
+c:\users\mattocrl\desktop\wguproject\wguproject\roster.cpp(317): warning C4018: '<': signed/unsigned mismatch
+c:\users\mattocrl\desktop\wguproject\wguproject\roster.cpp(387): warning C4018: '<': signed/unsigned mismatch
+  securityStudent.cpp
+  softwareStudent.cpp
+  student.cpp
+  Generating Code...
+  LINK : C:\Users\mattocrl\Desktop\WGUPROJECT\Debug\WGUPROJECT.exe not found or not built by the last incremental link; performing full link
+  WGUPROJECT.vcxproj -> C:\Users\mattocrl\Desktop\WGUPROJECT\Debug\WGUPROJECT.exe
